@@ -1,5 +1,5 @@
 - name: Lisa Levinson, PI
-  photo: rock.jpg
+  photo: u-m_logo-hex.png
   info: Lecturer III, Director of Undergraduate Research Experiences
   email: lisalev@umich.edu
   number_educ: 4
@@ -9,20 +9,29 @@
   education4: BA Barnard College in English with Latin minor 
  
 - name: Yizhi Tang
-  photo: rock.jpg
+  photo: u-m_logo-hex.png
   info: BS student, Computer Science and Psychology
   email: 
   number_educ: 0
   education1:
 
 - name: Lila Tappan
-  photo: rock.jpg
+  photo: u-m_logo-hex.png
   info: BA student, BCN Psychology and Spanish
   email: 
   number_educ: 0
   education1:
 
+- name: Manasi Sridhar
+  photo: u-m_logo-hex.png
+  info: BS student, Computer Science
+  email: 
+  number_educ: 0
+  education1:
+
+
 - name: "This could be you !"
+  photo: u-m_logo-hex.png
   info: See <a href="https://umwordlab.github.io/joinus">this page</a> for more info
   email: lisalev@umich.edu
   number_educ: 0
