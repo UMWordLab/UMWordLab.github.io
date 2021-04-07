@@ -8,37 +8,23 @@
 #  education3:
 #  education4:
 
-- name: Rebecca Gharibaan
+- name: Yizhi Tang
   photo: rock.jpg
-  info: Master student
-  email: R.Gharibaan@student.tudelft.nl
+  info: BS student, Computer Science and Psychology
+  email: 
   number_educ: 0
   education1:
 
-- name: Rémi Claessen
+- name: Lila Tappan
   photo: rock.jpg
-  info: Master student
-  email: remi.c60000@gmail.com
+  info: BA student, BCN
+  email: 
   number_educ: 0
   education1:
 
-- name: Maialen Larrazabal Ortego
+- name: Aidan Wolford
   photo: rock.jpg
-  info: Master student
-  email: m.ortego.larrazabal@umail.leidenuniv.nl
-  number_educ: 0
-  education1:
-
-- name: Sergio Barquero Pierantoni
-  photo: rock.jpg
-  info: Master student
-  email: s.barquero.pierantoni@umail.leidenuniv.nl
-  number_educ: 0
-  education1:
-
-- name: Evert Stolte
-  photo: rock.jpg
-  info: Master student
-  email: evert_3aug@hotmail.com
+  info: BA student, Linguistics and Cognitive Science
+  email:
   number_educ: 0
   education1:
