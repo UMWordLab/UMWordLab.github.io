@@ -1,16 +1,16 @@
 ---
 title: "WordLab - Team"
 layout: gridlay
-excerpt: "WordLab: Team members"
+excerpt: "WordLab: Lab members"
 sitemap: false
 permalink: /team/
 ---
 
-# Group Members
+# Lab Members
 
- **Undergraduate and graduate students are welcome to joint the lab** [(find out more)]({{ site.url }}{{ site.baseurl }}/joinus) **!**
+ **Undergraduate and graduate students are welcome to join the lab** [(find out more)]({{ site.url }}{{ site.baseurl }}/joinus) **!**
 
-## Lab Members
+## Current Lab Members
 {% assign number_printed = 0 %}
 {% for member in site.data.team_members %}
 
