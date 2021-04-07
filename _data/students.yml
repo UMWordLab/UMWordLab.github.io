@@ -7,24 +7,3 @@
 #  education2:
 #  education3:
 #  education4:
-
-- name: Yizhi Tang
-  photo: rock.jpg
-  info: BS student, Computer Science and Psychology
-  email: 
-  number_educ: 0
-  education1:
-
-- name: Lila Tappan
-  photo: rock.jpg
-  info: BA student, BCN
-  email: 
-  number_educ: 0
-  education1:
-
-- name: Aidan Wolford
-  photo: rock.jpg
-  info: BA student, Linguistics and Cognitive Science
-  email:
-  number_educ: 0
-  education1:

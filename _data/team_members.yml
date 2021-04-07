@@ -2,12 +2,47 @@
   photo: levinson.jpg
   info: Lecturer III, Director of Undergraduate Research Experiences
   email: lisalev@umich.edu
-  number_educ: 3
-  education1: Previously associate professor at Oakland University
-  education2: PhD NYU Linguitics with Liina Pylkkanen and Richard S. Kayne
-  education3: BA Barnard College in English with Latin minor 
+  number_educ: 4
+  education1: Joined U of M Fall 2019
+  education2: Previously associate professor at Oakland University
+  education3: PhD NYU Linguitics with Liina Pylkkanen and Richard S. Kayne
+  education4: BA Barnard College in English with Latin minor 
  
- 
+ - name: Lucy Yu-Chuan Chiang
+  photo: rock.jpg
+  info: PhD student, Linguistics
+  email: 
+  number_educ: 0
+  education1:
+
+- name: Yizhi Tang
+  photo: rock.jpg
+  info: BS student, Computer Science and Psychology
+  email: 
+  number_educ: 0
+  education1:
+
+- name: Lila Tappan
+  photo: rock.jpg
+  info: BA student, BCN
+  email: 
+  number_educ: 0
+  education1:
+
+- name: Aidan Wolford
+  photo: rock.jpg
+  info: BA student, Linguistics and Cognitive Science
+  email:
+  number_educ: 0
+  education1:
+
+- name: "This could be you !"
+  photo: rock.jpg
+  info: See <a href="http://www.allanlab.org/vacancies">openings</a> for more info
+  email: milan.allan@gmail.com
+  number_educ: 0
+  education1:
+  
 
 - name: "This could be you !"
   photo: rock.jpg
