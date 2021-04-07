@@ -10,8 +10,7 @@ permalink: /team/
 
  **Undergraduate and graduate students are welcome to join the lab** [(find out more)]({{ site.url }}{{ site.baseurl }}/joinus) **!**
 
-
-## Current Lab Members
+## Lab Director (PI)
 {% assign number_printed = 0 %}
 {% for member in site.data.PI %}
 
