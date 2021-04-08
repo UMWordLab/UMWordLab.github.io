@@ -6,7 +6,7 @@ sitemap: false
 permalink: /
 ---
 
-Research at the WordLab focuses on the representation and processing of words, and especially verbs! This work is at the intersection of semantics, argument structure, and psycholinguistics. Our home is in the linguitics department at the University of Michigan. 
+Research at the WordLab focuses on the representation and processing of words, and especially verbs! This work is at the intersection of semantics, argument structure, and psycholinguistics. Our home is in the linguitics department at the University of Michigan.  
 
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="5000" data-pause="hover" > 
