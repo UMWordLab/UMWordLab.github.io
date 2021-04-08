@@ -3,7 +3,7 @@ title: "WordLab - Join Us"
 layout: textlay
 excerpt: "Join Us"
 sitemap: false
-permalink: /joinus
+permalink: /openings/
 ---
 
 # Open positions
