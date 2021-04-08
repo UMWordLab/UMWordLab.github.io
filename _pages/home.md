@@ -6,7 +6,10 @@ sitemap: false
 permalink: /
 ---
 
-Research at the WordLab focuses on the representation and processing of words, and especially verbs! This work is at the intersection of semantics, argument structure, and psycholinguistics. Our home is in the linguitics department at the University of Michigan.  
+Research at the WordLab focuses on the representation and processing of words, and especially verbs! This work is at the intersection of semantics, argument structure, and psycholinguistics. Our home is in the linguistics department at the University of Michigan.  
+
+To read more about the focus of the lab, check out the [Research](research) page. If you're interested in joining the lab, see the [Join Us](joinus) page. 
+
 
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="5000" data-pause="hover" > 
@@ -23,9 +26,6 @@ Research at the WordLab focuses on the representation and processing of words, a
         <div class="item active">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/word-by-word-RT.png" alt="Slide 1" />
         </div>
-        <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/000004.png" alt="Slide 2" />
-        </div>
     </div>
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
     <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
@@ -36,5 +36,3 @@ Research at the WordLab focuses on the representation and processing of words, a
     <span class="sr-only">Next</span>
   </a>
 </div>
-
-To see some specific examples of work from the lab, check out the [Research](research) page.
