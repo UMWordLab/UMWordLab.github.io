@@ -8,7 +8,7 @@ permalink: /team/
 
 # Lab Members
 
- **Undergraduate and graduate students are welcome to join the lab** [(find out more)]({{ site.url }}{{ site.baseurl }}/joinus) **!**
+ **Undergraduate and graduate students are welcome to join the lab** [(find out more)]({{ site.url }}{{ site.baseurl }}/joinus/) **!**
 
 ## Lab Director (PI)
 {% assign number_printed = 0 %}
