@@ -5,16 +5,30 @@
   number_educ: 0
   education1:
 
-- name: Lila Tappan
-  photo: tappan.jpg
-  info: BA student, BCN Psychology and Spanish
+- name: Manasi Sridhar
+  photo: sridhar.jpg
+  info: BS student, Computer Science, minor in Linguistics
   email: 
   number_educ: 0
   education1:
 
-- name: Manasi Sridhar
-  photo: sridhar.jpg
-  info: BS student, Computer Science
+- name: Brighton Pauli
+  photo: brighton.jpg
+  info: BSE student, Computer Science
+  email: 
+  number_educ: 0
+  education1:
+
+- name: Emma Thronson
+  photo: emma.jpg
+  info: BS student, Data Science and Spanish
+  email: 
+  number_educ: 0
+  education1:
+
+- name: Krystal Koski
+  photo: krystal.jpg
+  info: BA student, Linguistics and Writing
   email: 
   number_educ: 0
   education1:

@@ -1,14 +1,22 @@
+- name: Lila Tappan
+  photo: tappan.jpg
+  duration: 2020-2021
+  info: Undergraduate member (BA student, BCN Psychology and Spanish)
+  email: 
+  number_educ: 0
+  education1:
+
 - name: Jakob Myles
   photo: u-m_logo-hex.png
   duration: 2019-2020
-  info: RA
+  info: Undergraduate member
   email: 
   number_educ: 0
   education1: 
   
 - name: Lara King
   photo: u-m_logo-hex.png
-  info: RA
+  info: Undergraduate member
   duration: 2019-2020
   email: 
   number_educ: 0
