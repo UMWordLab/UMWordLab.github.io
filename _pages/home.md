@@ -6,11 +6,9 @@ sitemap: false
 permalink: /
 ---
 
-Research at the WordLab focuses on the representation and processing of words, and especially verbs! This work is at the intersection of semantics, argument structure, and psycholinguistics. Our home is in the linguistics department at the University of Michigan.  
+Research at the WordLab focuses on the representation and processing of words, and especially verbs! This work is at the intersection of psycholinguistics, semantics, argument structure, and computational linguistics. Our home is in the linguistics department at the University of Michigan.  
 
 To read more about the focus of the lab, check out the [Research](research) page. If you're interested in joining the lab, see the [Join Us](joinus) page. 
-
-
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="5000" data-pause="hover" > 
     <!-- Menu -->
@@ -24,11 +22,15 @@ To read more about the focus of the lab, check out the [Research](research) page
     <div class="carousel-inner" markdown="0">
 
         <div class="item active">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/word-by-word-RT-crop.jpg" alt="Slide 1" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/word-by-word-RT-crop.jpg" alt="Slide 0" />
         </div>
 
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/lab-zoom-crop.jpg" alt="Slide 2" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/lab-zoom-crop.jpg" alt="Slide 1" />
+        </div>
+
+        <div class="item">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/lab-zoom-2021-05-28.jpg" alt="Slide 2" />
         </div>
     </div>
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
@@ -40,3 +42,4 @@ To read more about the focus of the lab, check out the [Research](research) page
     <span class="sr-only">Next</span>
   </a>
 </div>
+
